@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"os"
 
-	platformOS "github.com/codemodify/systemkit-platform-os"
+	platformOS "github.com/remoteit/systemkit-platform-os"
 )
 
 func main() {
